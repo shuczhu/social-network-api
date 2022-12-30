@@ -31,7 +31,7 @@ Add and delete a comment on the thought
 
 ## Links
 
-Github Repo: </br>
+Github Repo: https://github.com/shuczhu/social-network-api </br>
 
 Video Walkthrough: https://drive.google.com/file/d/1veXGCdCDzH013Dmhf4wOajVsiPSdS_Ty/view
 </br>
